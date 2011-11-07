@@ -1,0 +1,12 @@
+Steps:
+
+1 - Paste in your javascript: js / teste.js
+2 - Open the terminal
+3 - cd js /
+4 - sh .. / compress.sh
+
+Ready! Your scripts will be compressed in the directory jsmin
+
+#####################################################################
+
+Now you can put your javascript js directory and repeat the steps.
